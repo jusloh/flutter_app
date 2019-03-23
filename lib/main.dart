@@ -1,3 +1,4 @@
+// This is a test of git first commit
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
